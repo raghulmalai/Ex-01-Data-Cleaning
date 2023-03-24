@@ -38,3 +38,23 @@ df.head()
 df.info()
 df.isnull().sum()
 # OUPUT
+
+D1 D2
+
+NON NULL BEFORE:
+D3 D4 D5
+
+MODE:
+D6
+
+MEAN:
+D7
+
+MEDIAN:
+D8
+
+NON NULL AFTER:
+D9 D10
+
+RESULT
+Thus, the given data is read, cleansed and the cleansed data is saved into the file
